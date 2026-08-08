@@ -1,0 +1,9 @@
+Flask
+flask-cors
+mysql-connector-python
+scikit-learn==1.7.2
+joblib
+pandas
+numpy
+groq
+python-dotenv
