@@ -7,4 +7,5 @@ pandas
 numpy
 deep_translator
 groq
+ollama
 python-dotenv
