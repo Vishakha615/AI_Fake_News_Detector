@@ -1,10 +1,10 @@
 import joblib
 
 # Load model
-model = joblib.load("models/fake_news_model.pkl")
+model = joblib.load("newsdetection/models/fake_news_model.pkl")
 
 # Load vectorizer
-vectorizer = joblib.load("models/tfidf_vectorizer.pkl")
+vectorizer = joblib.load("newsdetection/models/tfidf_vectorizer.pkl")
 
 
 def predict_news(news):
